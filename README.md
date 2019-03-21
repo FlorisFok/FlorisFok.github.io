@@ -1,2 +1,3 @@
-# FlorisFok.github.io
-Test hostinng
+# Project 2
+
+Web Programming with Python and JavaScript
